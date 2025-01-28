@@ -53,7 +53,7 @@
     "prepublishOnly": "pnpm clean && pnpm turbo build"
   },
   "dependencies": {
-    "@sentry/nextjs": "^8.33.1",
+    "@sentry/nextjs": "^8.49.0",
     "@sentry/types": "^8.33.1"
   },
   "devDependencies": {
